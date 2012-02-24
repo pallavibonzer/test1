@@ -6,6 +6,8 @@
 </head>
 
 <body>
-<?php echo "this is php file"; ?>
+<?php echo "this is php file";
+echo "this is just for testing";
+ ?>
 </body>
 </html>
