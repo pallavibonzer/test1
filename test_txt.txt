@@ -1,6 +1,4 @@
-123  thhis is test
-aaa
-
+this is file from remote
 
 
 
