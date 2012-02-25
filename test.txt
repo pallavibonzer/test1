@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is remote file 11
-=======
-this is remote file 11
->>>>>>> 520dfc78954f41317a1e1379face0cc4cc26f6f5
+this isafter commit
