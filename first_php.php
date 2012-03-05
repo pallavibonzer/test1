@@ -7,7 +7,7 @@
 
 <body>
 <?php echo "this is php file";
-echo "this is just for testing";
+echo "this is just for testing  new changes";
  ?>
 </body>
 </html>
